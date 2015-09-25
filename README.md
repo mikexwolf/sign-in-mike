@@ -14,3 +14,10 @@
 - How do you select a CSS element by "name" attribute?
 - Can you create the animation using just CSS? (you don't have to do it, just consider how)
 - If both input elements have the same functionality, can they share code?
+
+## Submission
+
+1. Create a repo in your own Github account
+2. If you cloned the project, change the remote location to be your Github repo:
+  - `git remote set-url origin https://github.com/[your user name]/[your repo name].git`
+3. Add, Commit, Push
